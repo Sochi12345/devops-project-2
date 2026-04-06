@@ -13,7 +13,7 @@ This project demonstrates a complete DevOps workflow by deploying a containerize
 
 
 
-## Features
+### Features
 - Containerized Node.js application
 - Multi-container setup using Docker Compose
 - Nginx reverse proxy for routing traffic
